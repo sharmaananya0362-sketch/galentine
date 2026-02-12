@@ -1,6 +1,6 @@
-# 💖 Will You Be My Galentine?
+# 💖 Will You Be My Chachentine?
 
-An interactive, romantic web experience to ask someone to be your Galentine! This project is a beautifully designed single-page application with smooth animations, heartfelt memories, and a fun interactive "No" button that evades clicks.
+An interactive, romantic web experience to ask someone to be your Chachentine! This project is a beautifully designed single-page application with smooth animations, heartfelt memories, and a fun interactive "No" button that evades clicks.
 
 ## ✨ Features
 
@@ -109,4 +109,4 @@ Feel free to use and customize this for your special someone! 💕
 
 ---
 
-Made with 💖 for asking that special person to be your Galentine!
+Made with 💖 for asking that special person to be your Chachentine?
